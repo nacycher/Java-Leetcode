@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * 49. 字母异位词分组
  */
-public class leetcode02字母异位词分组 {
+public class leetcode002字母异位词分组 {
 
     public static List<List<String>> groupAnagrams(String[] strs) {
         HashMap<String, List<String>> hashMap = new HashMap<>();
