@@ -6,7 +6,7 @@ import java.util.HashMap;
 /**
  * 1. 两数之和
  */
-public class leetcode01两数之和 {
+public class leetcode001两数之和 {
     public static int[] twoSum(int[] nums, int target) {
         int[] result = new int[2];
         for (int i = 0; i < nums.length; i++) {

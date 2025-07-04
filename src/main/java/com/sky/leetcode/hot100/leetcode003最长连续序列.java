@@ -1,12 +1,11 @@
 package com.sky.leetcode.hot100;
 
-import java.util.HashMap;
 import java.util.HashSet;
 
 /**
  * 128. 最长连续序列
  */
-public class leetcode03最长连续序列 {
+public class leetcode003最长连续序列 {
 
     public static int longestConsecutive(int[] nums) {
         HashSet<Integer> num_set = new HashSet<>();
